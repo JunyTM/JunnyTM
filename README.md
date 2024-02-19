@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+To+Kim+Manh!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Viet Nam 🇻🇳</h3>
+<h2 align="center">A passionate software developer from Viet Nam 🇻🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on a back-end web application developer<br>
+ 🔭 I’m currently working on a back-end web application developer
  
- <br>🌱 Learning the architectures to develop systems and make them better is my goal<br>
+ <br>🌱 Learning the architectures to develop systems and make them better is my goal
  
- <br>⚡ Fun fact: The systems I developed still look so chaotic 🤣🤣<br>
+ <br>⚡ Fun fact: The systems I developed still look so chaotic 🤣🤣
  
  <br><br>📫 Reach me: manhtokim@gmail.com<br> 
 
@@ -34,7 +34,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,vscode,github,figma,tailwind,git" />
@@ -46,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h1>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -55,7 +55,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h1 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
