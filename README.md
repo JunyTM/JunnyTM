@@ -30,15 +30,16 @@
   <a href="https://www.facebook.com/profile.php?id=100009031528373" target="_blank">
      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
+</div>,
 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,maintine,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=golang,gochi,javascript,typescript,mongodb,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=golang,godot,javascript,typescript,mongodb,mysql,postgresql,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,nginx,jenkins,linux,vite" /><br>
 </div>
 
 <br/>
